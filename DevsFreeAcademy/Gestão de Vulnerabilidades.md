@@ -1,3 +1,4 @@
+# Gestão de Vulnerabilidades
 - Avaliações Regulares: Realizar varreduras para identificar vulnerabilidades
 - Atualizações e Patches: Aplicação constante de atualizações de segurança em software e sistemas
 - Análise de Risco: Classificação das vulnerabilidades de acordo com o impacto potencial
