@@ -1,3 +1,4 @@
+# Controle de Acesso e Autenticação
 - Autenticação Multifatorial (MFA): Uso de métodos adicionais de verificação além da senha
 - Princípio do Menor Privilégio: Conceder acesso apenas às informações necessárias
 - Revisões de Acesso: Avaliação periódica das permissões de usuários
