@@ -1,3 +1,0 @@
-- Configuração Segura: Garantir que as configurações estejam de acordo com as melhores práticas de segurança
-- Criptografia: Proteger dados em repouso e em trânsito
-- Avaliação de Fornecedores: Verificar a conformidade dos provedores de serviços em nuvem
