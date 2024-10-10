@@ -1,0 +1,4 @@
+- Firewalls: Implementação e configuração para filtrartráfego indesejado
+- VPNs: Uso para proteger conexões remotas e garantir segurança de dados em trânsito
+- Monitoramento de Rede: Ferramentas para detectar intrusões e atividades suspeitas
+- Segmentação de Rede: Divisão da rede em sub-redes para limitar acessos
