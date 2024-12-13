@@ -7,8 +7,8 @@
 |Ameaça e Vulnerabilidades à Segurança da Informação|Gestão de Vulnerabilidades|
 |Criptografias|Proteção contra Malware e Ransomware|
 |Controle de proteção|Controle de Acesso e Autenticação|
-|ABC|Segurança de Aplicações|
-|ABC|Educação e Conscientização sobre Segurança|
+|Segurança de redes e Web Hacking|Segurança de Aplicações|
+|Boas práticas da SI, área de atuação e certificação|Educação e Conscientização sobre Segurança|
 |ABC|Segurança em Nuvem|
 |ABC|Resposta a Incidentes e Recuperação|
 |ABC|Regulamentação e Conformidade|
